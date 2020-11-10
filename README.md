@@ -1,2 +1,2 @@
 # aiga-resources
-Public resources used by aiga.io
+Resource files for aiga
